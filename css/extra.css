@@ -1,0 +1,21 @@
+.name-card{
+    display: flex;
+    /* align-content: center; */
+    align-items: center !important;
+    align-content: center !important;
+}
+
+.portfolio-caption{
+    height: 180px;
+}
+
+.proj-img{
+    height: 163px;
+    width: 350px;
+    /* background-size: cover; */
+    /* object-fit: cover; */
+}
+
+/* .proj-card{
+    border: 3px solid black;
+} */
