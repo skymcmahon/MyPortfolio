@@ -19,3 +19,13 @@
 /* .proj-card{
     border: 3px solid black;
 } */
+
+.tech-container{
+    display: flex !important;
+    align-content: space-between !important;
+    /* align-items: center !important; */
+}
+
+.tech-container li{
+    list-style-type: none;
+}
